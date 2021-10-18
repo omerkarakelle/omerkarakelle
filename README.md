@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omerkarakelle
-- 👀 I’m interested in C, Python, Image Processing and some Machine Learning Algorithms to help me on Image Processing.
+- 👀 I’m interested in C, Python, Image Processing and some Machine Learning Algorithms to help me on Image Processing
 - 🌱 I’m currently learning Machine Learning and Unix/Linux
-- //💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> omerlutfu.k34@gmail.com
+- 🏫 I’m currently studying at Ecole 42 Programming School
+- 📫 How to reach me: omerlutfu.k34@gmail.com
