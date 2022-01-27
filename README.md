@@ -1,8 +1,8 @@
 <h3>👋 Hi there, I’m @omerkarakelle</h3>
 
-👀 I’m interested in C, Python, Machine Learning and Embedded Systems
+👀 I’m interested in C, Python and Embedded Systems
 
-🌱 I’m currently learning about IoT and Embedded Systems
+🌱 I’m currently learning about Internet of Things Technologies and Embedded Systems
 
 🏫 I’m currently studying at Ecole 42 Programming School
 
