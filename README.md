@@ -1,10 +1,10 @@
 <h3>👋 Hi there, I’m @omerkarakelle</h3>
 
-👀 I’m interested in C, Python and Embedded Systems
+👀 I’m interested in C and Python Languages
 
-🌱 I’m currently learning about Internet of Things Technologies and Embedded Systems
+🌱 I’m currently learning about Embedded Systems and Communication Systems
 
-🏫 I’m currently studying.
+🏫 I’m currently studying at Istanbul Technical University and Ecole 42.
 
 📫 How to reach me: omerlutfu.k34@gmail.com
 
