@@ -1,8 +1,8 @@
 <h3>👋 Hi there, I’m @omerkarakelle</h3>
 
-👀 I’m interested in C and Python Languages
+👀 I’m interested in C/C++ and MATLAB languages
 
-🌱 I’m currently learning about Embedded Systems and Communication Systems
+🌱 I’m currently learning about Communication Systems
 
 🏫 I’m currently studying at Istanbul Technical University and Ecole 42.
 
