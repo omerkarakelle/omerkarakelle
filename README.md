@@ -1,12 +1,6 @@
 <h3>👋 Hi there, I’m @omerkarakelle</h3>
 
-👀 I’m interested in C/C++ and MATLAB languages
-
-🌱 I’m currently learning about Communication Systems
-
-🏫 I’m currently studying at Istanbul Technical University and Ecole 42.
-
-📫 How to reach me: omerlutfu.k34@gmail.com
+📫 omerlutfu.k34@gmail.com
 
 <h3>📊 My Stats:</h3>
 <table>
